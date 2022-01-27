@@ -12,3 +12,10 @@ if a == True:
 
 
 
+numbers =  list(range(10))
+print(numbers)
+
+
+for i in range(5):
+    print('Hello')
+
